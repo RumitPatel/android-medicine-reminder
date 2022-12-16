@@ -1,1 +1,1 @@
-# android-medicine-reminder.github.io
+# android-medicine-reminder
