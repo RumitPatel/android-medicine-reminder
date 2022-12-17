@@ -1,4 +1,4 @@
-package com.rumit.dynamic_theme_color;
+package com.rumit.medicine_reminder_demo;
 
 import android.os.Bundle;
 import android.view.View;
