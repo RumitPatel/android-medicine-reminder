@@ -1,4 +1,4 @@
-package com.rumit.medicine_reminder_demo;
+package com.rumitpatel.medicinereminder;
 
 import android.os.Bundle;
 import android.view.View;
