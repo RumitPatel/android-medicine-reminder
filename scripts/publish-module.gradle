@@ -48,8 +48,8 @@ afterEvaluate {
                 // Mostly self-explanatory metadata
                 pom {
                     name = PUBLISH_ARTIFACT_ID
-                    description = "The calculator Android library"
-                    url = 'https://bitbucket.org/bitbucket_username/mavenpublishlibrary/src/master/'
+                    description = "The Medicine reminder application"
+                    url = 'https://github.com/RumitPatel/android-medicine-reminder/tree/main/'
                     licenses {
                         license {
                             name = 'MIT license'
@@ -58,20 +58,19 @@ afterEvaluate {
                     }
                     developers {
                         developer {
-                            id = 'email_without_extension'
-                            name = 'username'
-                            email = 'email'
+                            id = 'rumit.patel5'
+                            name = 'RumitPatel'
+                            email = 'rumit.patel5@gmail.com'
                         }
                     }
 
                     // Version control info
                     scm {
-                        connection = 'scm:git:ssh://git@bitbucket.org/username/mavenpublishlibrary.git'
-                        developerConnection = 'scm:git:ssh://git@bitbucket.org:username/mavenpublishlibrary.git'
-                        url = 'https://bitbucket.org/username/mavenpublishlibrary/src/master/'
+                        connection = 'scm:git:ssh://git@github.com/RumitPatel/android-medicine-reminder.git'
+                        developerConnection = 'scm:git:ssh://git@github.com:Rumit/android-medicine-reminder.git'
+                        url = 'https://github.com/RumitPatel/android-medicine-reminder/tree/main/'
                     }
                 }
-
             }
         }
     }
