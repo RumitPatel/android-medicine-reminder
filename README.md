@@ -5,3 +5,4 @@ I am following below blogs:
 - [Upload to MavenCentral made easy for Android Library](https://medium.com/mobile-app-development-publication/upload-to-mavencentral-made-easy-for-android-library-30d2b83af0c7) by Waseef Akhtar
 - [Publishing Android library to maven central](https://thsaravana.github.io/blog/publish-android-library-maven-central) by Saravana Thiyagaraj
 - [How To Create and Publish an Android Library in MavenCentral](https://betterprogramming.pub/how-to-create-and-publish-an-android-library-in-mavencentral-92397df94103) Siva Ganesh Kantamani
+- [Publishing Android libraries to MavenCentral in 2021](https://getstream.io/blog/publishing-libraries-to-mavencentral-2021) by Márton B.
